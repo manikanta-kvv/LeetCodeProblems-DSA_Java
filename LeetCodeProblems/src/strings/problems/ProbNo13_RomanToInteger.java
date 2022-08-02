@@ -39,6 +39,5 @@ public class ProbNo13_RomanToInteger {
 			}
 		}
 		System.out.println(outputValue + romanHashMap.get(charArray[charArray.length - 1]));
-//		System.out.println(outputValue);
 	}
 }
